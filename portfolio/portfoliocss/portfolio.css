@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    
+}
+img{
+    width: 100%;
+    height: auto;
+    
+}
+h1,a{
+    color:white;
+    text-align:center;
+    font-size:23px;
+}
